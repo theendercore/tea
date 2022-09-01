@@ -1,4 +1,4 @@
-![Tea](https://github.com/theendercore/tea/blob/master/pack.png)
+![Tea](./pack.png)
 # Tea
 
 Replaces potions with tea cups. :)
