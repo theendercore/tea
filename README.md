@@ -1,4 +1,6 @@
 # tea
+![Tea](https://github.com/theendercore/tea/blob/master/pack.png)
+
 Replaces potions with tea cups. :)
 
 Thanks to WafflesAreBetter#6519 for the idea and the original textures!
