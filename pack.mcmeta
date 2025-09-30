@@ -1,11 +1,8 @@
 {
   "pack": {
-    "pack_format": 15,
+    "pack_format": 65.0,
     "description": "\u00A71Jolly good",
-    "supported_formats": {
-      "min_inclusive": 15,
-      "max_inclusive": 100
-    },
-    "pack_version": "1.4.0"
+    "min_format": 65.0,
+    "max_format": 256.0
   }
 }
